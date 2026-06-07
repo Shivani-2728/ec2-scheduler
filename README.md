@@ -32,4 +32,4 @@ Start Schedule runs at 9AM IST every day and triggers the start Lambda function 
 
 ## Skills Demonstrated
 
-AWS Lambda · EventBrid
+AWS Lambda · EventBridge
